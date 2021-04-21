@@ -1,8 +1,12 @@
-Patrick Hand - handwritten
-Roboto Slab - serif
-Fira Sans - san serif (top)
+Oxygen
+Fira Sans
 FBDCE2 - piggy pink
-5B4B49 - umber
+415D43 - hunter green
 7293A0 - pewter blue
 D9DD92 - green yellow crayola
 A1683A - liver dogs
+
+.header {
+	background-color: FBDCE2 ;
+	padding: 20 px 20 px;
+}
