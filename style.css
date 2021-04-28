@@ -1,12 +1,35 @@
-Oxygen
+/*Oxygen
 Fira Sans
 FBDCE2 - piggy pink
 415D43 - hunter green
 7293A0 - pewter blue
 D9DD92 - green yellow crayola
-A1683A - liver dogs
+A1683A - liver dogs*/
 
 .header {
-	background-color: FBDCE2 ;
-	padding: 20 px 20 px;
+	background-color: #FBDCE2 ;
+	color: #415D43;
+	padding: 10px 10px;
+	font-family: 'Oxygen', sans-serif;
+	text-align: center;
 }
+a:hover{
+	color: #A1683A
+}
+.center, .disclaimer, .footer {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.footer {
+	background-color: #C2D0D6;
+	padding: 10px 10px;
+	text-align: center;
+}
+img{
+	border:7px solid #D9DD92;
+	border-radius: 10%;
+}
+li{
+	list-style: none;
+}
+
